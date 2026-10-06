@@ -129,5 +129,5 @@ domain.
 
 ## License
 
-Not yet decided -- treat as all-rights-reserved until a LICENSE file is
-added.
+MIT -- see [LICENSE](LICENSE). If you use this software, please cite it
+using the metadata in [CITATION.cff](CITATION.cff).

@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: hirax-solar-zt
+abstract: >-
+  Combined-day, all-frequency 1D Zernike ("ZT") polynomial fit of the
+  HIRAX solar-transit amplitude.
+authors:
+  - family-names: Sampath
+    given-names: Ajith
+    affiliation: University of Geneva
+    orcid: "https://orcid.org/0000-0002-0015-3870"
+license: MIT
+repository-code: "https://github.com/ajithsampath/hirax-solar-zt"
+date-released: "2026-10-06"
